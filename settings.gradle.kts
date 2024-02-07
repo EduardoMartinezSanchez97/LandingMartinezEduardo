@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Practica-3_GuessTheNumber"
+rootProject.name = "Practica 4_IMC-ID_00000164086"
 include(":app")
+ 
